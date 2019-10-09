@@ -1,0 +1,24 @@
+Vivado Simulator 2016.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: E:/vivado/Vivado/2016.4/bin/unwrapped/win64.o/xelab.exe -wto ed579eaba8744944ac299fbf4228b378 --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_cpu_behav xil_defaultlib.tb_cpu xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "E:/computer_organization/2012_11442_Lab04/Lab04.srcs/sources_1/imports/Lab04_Verilog_files/cpu.v" Line 14. Module cpu doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/computer_organization/2012_11442_Lab04/Lab04.srcs/sources_1/imports/Lab04_Verilog_files/cpu.v" Line 14. Module cpu doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.control_unit
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.RF
+Compiling module xil_defaultlib.sign_extend
+Compiling module xil_defaultlib.pc
+Compiling module xil_defaultlib.pc_adder
+Compiling module xil_defaultlib.mux_2_2
+Compiling module xil_defaultlib.mux_16_2
+Compiling module xil_defaultlib.data_path
+Compiling module xil_defaultlib.cpu
+Compiling module xil_defaultlib.tb_cpu
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_cpu_behav

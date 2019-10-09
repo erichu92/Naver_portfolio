@@ -1,0 +1,17 @@
+0.6
+2016.4
+Jan 23 2017
+19:37:30
+E:/computer_organization/2012_11442_Lab04/Lab04.sim/sim_1/behav/glbl.v,1485222234,verilog,,,,glbl,,,,,,,,
+E:/computer_organization/2012_11442_Lab04/Lab04.srcs/sim_1/imports/Lab04_Verilog_files/cpu_evaluation_tb.v,1555116253,verilog,,,,tb_cpu,,,,,,,,
+E:/computer_organization/2012_11442_Lab04/Lab04.srcs/sources_1/imports/Lab04_Verilog_files/cpu.v,1555107554,verilog,,,E:/computer_organization/2012_11442_Lab04/Lab04.srcs/sources_1/imports/Lab04_Verilog_files/opcodes.v,cpu,,,,,,,,
+E:/computer_organization/2012_11442_Lab04/Lab04.srcs/sources_1/imports/Lab04_Verilog_files/opcodes.v,1555034867,verilog,,,,,,,,,,,,
+E:/computer_organization/2012_11442_Lab04/Lab04.srcs/sources_1/imports/new/RF.v,1555047488,verilog,,,,RF,,,,,,,,
+E:/computer_organization/2012_11442_Lab04/Lab04.srcs/sources_1/new/ALU.v,1555106862,verilog,,,,ALU,,,,,,,,
+E:/computer_organization/2012_11442_Lab04/Lab04.srcs/sources_1/new/control_unit.v,1555116202,verilog,,,,control_unit,,,,,,,,
+E:/computer_organization/2012_11442_Lab04/Lab04.srcs/sources_1/new/data_path.v,1555110953,verilog,,,,data_path,,,,,,,,
+E:/computer_organization/2012_11442_Lab04/Lab04.srcs/sources_1/new/mux_16_2.v,1555101762,verilog,,,,mux_16_2,,,,,,,,
+E:/computer_organization/2012_11442_Lab04/Lab04.srcs/sources_1/new/mux_2_2.v,1555108819,verilog,,,,mux_2_2,,,,,,,,
+E:/computer_organization/2012_11442_Lab04/Lab04.srcs/sources_1/new/pc.v,1555105960,verilog,,,,pc,,,,,,,,
+E:/computer_organization/2012_11442_Lab04/Lab04.srcs/sources_1/new/pc_adder.v,1555102006,verilog,,,,pc_adder,,,,,,,,
+E:/computer_organization/2012_11442_Lab04/Lab04.srcs/sources_1/new/sign_extend.v,1555054903,verilog,,,,sign_extend,,,,,,,,
